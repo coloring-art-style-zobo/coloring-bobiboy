@@ -1,31 +1,31 @@
 {
     "easy": [
         {
-            "bgImageName": "Butterfly",
+            "bgImageName": "BoboiBoy",
             "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/easy/butterfly.png"
         },
         {
-            "bgImageName": "Sun",
+            "bgImageName": "BoboiBoy",
             "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/easy/sun.png"
         }
     ],
     "hard": [
         {
-            "bgImageName": "Mandala 1",
+            "bgImageName": "BoboiBoy",
             "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/hard/mandala1.png"
         },
         {
-            "bgImageName": "Dragon",
+            "bgImageName": "BoboiBoy",
             "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/hard/dragon.png"
         }
     ],
     "number": [
         {
-            "bgImageName": "Number Bird",
+            "bgImageName": "BoboiBoy",
             "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/number/bird.png"
         },
         {
-            "bgImageName": "Number House",
+            "bgImageName": "BoboiBoy",
             "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/number/house.png"
         }
     ]
