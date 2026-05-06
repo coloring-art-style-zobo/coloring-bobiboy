@@ -371,6 +371,14 @@
         {
             "bgImageName": "BoboiBoy",
             "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/coloring-bobiboy/refs/heads/main/n2.png"
+        },
+        {
+            "bgImageName": "BoboiBoy",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/coloring-bobiboy/refs/heads/main/n3.png"
+        },
+        {
+            "bgImageName": "BoboiBoy",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/coloring-bobiboy/refs/heads/main/n4.png"
         }
     ]
 }
