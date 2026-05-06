@@ -1,0 +1,32 @@
+{
+    "easy": [
+        {
+            "bgImageName": "Butterfly",
+            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/easy/butterfly.png"
+        },
+        {
+            "bgImageName": "Sun",
+            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/easy/sun.png"
+        }
+    ],
+    "hard": [
+        {
+            "bgImageName": "Mandala 1",
+            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/hard/mandala1.png"
+        },
+        {
+            "bgImageName": "Dragon",
+            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/hard/dragon.png"
+        }
+    ],
+    "number": [
+        {
+            "bgImageName": "Number Bird",
+            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/number/bird.png"
+        },
+        {
+            "bgImageName": "Number House",
+            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/number/house.png"
+        }
+    ]
+}
