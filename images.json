@@ -2,31 +2,31 @@
     "easy": [
         {
             "bgImageName": "BoboiBoy",
-            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/easy/butterfly.png"
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/coloring-bobiboy/refs/heads/main/b1.png"
         },
         {
             "bgImageName": "BoboiBoy",
-            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/easy/sun.png"
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/coloring-bobiboy/refs/heads/main/b1.pngg"
         }
     ],
     "hard": [
         {
             "bgImageName": "BoboiBoy",
-            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/hard/mandala1.png"
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/coloring-bobiboy/refs/heads/main/b1.png"
         },
         {
             "bgImageName": "BoboiBoy",
-            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/hard/dragon.png"
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/coloring-bobiboy/refs/heads/main/b1.png"
         }
     ],
     "number": [
         {
             "bgImageName": "BoboiBoy",
-            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/number/bird.png"
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/coloring-bobiboy/refs/heads/main/b3.png"
         },
         {
             "bgImageName": "BoboiBoy",
-            "bgImagePath": "https://raw.githubusercontent.com/your-repo/main/number/house.png"
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/coloring-bobiboy/refs/heads/main/b4.png"
         }
     ]
 }
